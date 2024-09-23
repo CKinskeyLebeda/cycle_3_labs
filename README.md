@@ -6,7 +6,7 @@
 
 <h2 align="center">Due before 8:30 AM on 10/7 </h2>
 
-### Variables & Expressions
+### Functions & Modules
 ---
 Read through the lab assignments in each presentation. Follow all instructions.
 
